@@ -23,6 +23,9 @@
         "nunomaduro/collision": "^4.1",
         "phpunit/phpunit": "^8.5"
     },
+    "require": {
+    "laravel/ui": "^2.0"
+  },
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
